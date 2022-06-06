@@ -12,7 +12,7 @@ r = False #Se inicia la variable r con un valor falso
 
 for i in a:
     if i == b:
-        print("Lo encontre")
+        print("Lo encontre")   #Sin funciones
         r = True
 if r == False:
     print("No lo encontre")
